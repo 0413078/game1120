@@ -15,5 +15,4 @@
 
 :pig:
 :smile:
-lua
 ![NKFUST](nkfust.jpg "第一科大")
